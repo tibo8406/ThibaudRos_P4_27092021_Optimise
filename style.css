@@ -551,15 +551,15 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    background-image: url(./img/lines-h2-bg.png)
+    background-image: url(//img/lines-h2-bg.png)
 }
 
 .bg-banniere {
-    background-image: url(./img/la-chouette-agence-banniere.webp)
+    background-image: url(//img/la-chouette-agence-banniere.webp)
 }
 
 .bg-presentation {
-    background-image: url(./img/image-de-presentation.webp)
+    background-image: url(//img/image-de-presentation.webp)
 }
 
 @media (max-width:1024px) {
