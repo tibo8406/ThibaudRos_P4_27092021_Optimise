@@ -551,15 +551,15 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    background-image: url(https://tibo8406.github.io/ThibaudRos_P4_27092021_Optimise/img/lines-h2-bg.png)
+    background-image: url(/img/lines-h2-bg.png)
 }
 
 .bg-banniere {
-    background-image: url(https://tibo8406.github.io/ThibaudRos_P4_27092021_Optimise/img/la-chouette-agence-banniere.jpg)
+    background-image: url(/img/la-chouette-agence-banniere.webp)
 }
 
 .bg-presentation {
-    background-image: url(https://tibo8406.github.io/ThibaudRos_P4_27092021_Optimise/img/image-de-presentation.bmp)
+    background-image: url(/img/image-de-presentation.webp)
 }
 
 @media (max-width:1024px) {
